@@ -23,15 +23,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDoubles", "MathDoubles\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDecimals", "MathDecimals\MathDecimals.csproj", "{42B667CF-63D0-407F-BF81-93FD1B169973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "IfStatements\IfStatements.csproj", "{A0587AA7-A3F8-4ADB-8745-39AF657B5C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfStatements", "IfStatements\IfStatements.csproj", "{A0587AA7-A3F8-4ADB-8745-39AF657B5C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{7E39A0E2-A578-441C-B71E-90D09934C327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{7E39A0E2-A578-441C-B71E-90D09934C327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{56BDD6CD-4BD8-419C-B0B2-739BAFDD8E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{56BDD6CD-4BD8-419C-B0B2-739BAFDD8E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{B487EF43-387A-4C64-A52A-0AB511CB4BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{B487EF43-387A-4C64-A52A-0AB511CB4BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{09FD43FC-99C3-4314-84A2-14AFFA9CCA7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.csproj", "{09FD43FC-99C3-4314-84A2-14AFFA9CCA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchesAndLoops", "BranchesAndLoops\BranchesAndLoops.csproj", "{D0373780-1BF9-4244-8C19-3F0A38E4A672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{09FD43FC-99C3-4314-84A2-14AFFA9CCA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09FD43FC-99C3-4314-84A2-14AFFA9CCA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09FD43FC-99C3-4314-84A2-14AFFA9CCA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0373780-1BF9-4244-8C19-3F0A38E4A672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0373780-1BF9-4244-8C19-3F0A38E4A672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0373780-1BF9-4244-8C19-3F0A38E4A672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0373780-1BF9-4244-8C19-3F0A38E4A672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
