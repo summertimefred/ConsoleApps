@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortSearchIndex", "SortSear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsOfOtherTypes", "ListsOfOtherTypes\ListsOfOtherTypes.csproj", "{158207E8-7CF0-47AD-96C8-AA762E2D422B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySuperBank", "MySuperBank\MySuperBank.csproj", "{77A7A336-AECB-4A28-B8CA-2B6CB44BD843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{158207E8-7CF0-47AD-96C8-AA762E2D422B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158207E8-7CF0-47AD-96C8-AA762E2D422B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158207E8-7CF0-47AD-96C8-AA762E2D422B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A7A336-AECB-4A28-B8CA-2B6CB44BD843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A7A336-AECB-4A28-B8CA-2B6CB44BD843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A7A336-AECB-4A28-B8CA-2B6CB44BD843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A7A336-AECB-4A28-B8CA-2B6CB44BD843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
